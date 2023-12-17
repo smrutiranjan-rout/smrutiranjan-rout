@@ -1,4 +1,4 @@
-![MasterHead](https://boostlabs.com/wp-content/uploads/2023/02/10-types-of-data-visualization-1-1024x614.jpg)
+![MasterHead](https://media.licdn.com/dms/image/D4E12AQF7RKVvozyLtg/article-cover_image-shrink_600_2000/0/1665494659870?e=2147483647&v=beta&t=rn_4rvDOuUwWD7Qb0_wZczta12SlSO-5izcoSVahvsw)
 <h1 align="center">Hi 👋, I'm Smrutiranjan Rout</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" Width="400" src="https://assets-global.website-files.com/59e16042ec229e00016d3a66/64c03019401ab11733f2e1be_data-visualization%2Blinking_blog-hero.gif">
