@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smrutiranjan-rout&label=Profile%20views&color=0e75b6&style=flat" alt="smrutiranjan-rout" /> </p>
 
-<p align="left"> <a href="https://twitter.com/the_data_diver" target="blank"><img src="https://img.shields.io/twitter/follow/the_data_diver?logo=twitter&style=for-the-badge" alt="the_data_diver" /></a> </p>
+<p align="left"> <a href="https://x.com/the_data_diver" target="blank"><img src="https://img.shields.io/x/follow/codecareerhub?logo=x&style=for-the-badge" alt="codecareerhub" /></a> </p>
 
 - 🌱 I’m currently learning **Excel, Power BI, SQL, Python**
 
