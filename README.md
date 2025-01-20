@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/the_data_diver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_data_diver" height="30" width="40" /></a>
+<a href="https://twitter.com/codecareerhub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codecareerhub" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/srrout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srrout" height="30" width="40" /></a>
 <a href="https://kaggle.com/smrutiranjanrout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="smrutiranjanrout" height="30" width="40" /></a>
-<a href="https://instagram.com/the_data_diver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_data_diver" height="30" width="40" /></a>
+<a href="https://instagram.com/codecareerhub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_data_diver" height="30" width="40" /></a>
 <a href="https://medium.com/@smrutiranjanrout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@smrutiranjanrout" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/smrutiranjanrout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="smrutiranjanrout" height="30" width="40" /></a>
 </p>
