@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/Smrutiranjan-Rout](https://codebasics.io/portfolio/Smrutiranjan-Rout)
 
-- 📝 I regularly write articles on [https://thedatadiver.com](https://thedatadiver.com)
+- 📝 I regularly write articles on [https://codecareer.in](https://codecareer.in)
 
-- 📫 How to reach me **contact@thedatadiver.com**
+- 📫 How to reach me **info@codecareer.in**
 
 - ⚡ Fun fact **An Electronics whiz navigating the data universe!🚀🔌📊**
 
